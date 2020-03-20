@@ -7,4 +7,4 @@ Implement function `(parseObjectSuffix "expression")` to parse expression writte
 
 should return `((2 x *) 3 -)`.
 
-Parsing functions should base on [combinatorial library](/combinators.clj).
+Parsing functions should base on [combinatorial library](/Clojure/combinators.clj).
